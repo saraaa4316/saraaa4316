@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sara ,I am 19
+- 👋 Hi, I’m Sara ,I am 19,i am a 2nd year uni student
 - 👀 I’m interested in programming ,web dev 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on dif projects,building websites and apps
