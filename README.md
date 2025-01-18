@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Sara ,I am 19,i am a 2nd year uni student
+- I am a runway model( 1.78m)🦋
 - 🇷🇴 I am from Romania
 - 👀 I’m interested in programming ,web dev 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on diff projects,building websites and apps
 - I speak Romanian,English and German
+
   
 
 <!---
